@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://nalito.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ifeoluwa-oduwaiye-ab3a95200/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue"></a>
-<a href="https://www.kaggle.com/ifeoluwaoduwaiye"><img alt="Kaggle" src="https://img.shields.io/badge/-kaggle-blue"></a>
+<a href="https://www.linkedin.com/in/ifeoluwa-oduwaiye-ab3a95200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.kaggle.com/ifeoluwaoduwaiye"><img alt="Kaggle" src="https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle"></a>
 <a href="ifeoluwaoduwaiye@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>

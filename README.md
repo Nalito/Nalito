@@ -1,11 +1,16 @@
 <h2> Hey there! I'm Ifeoluwa AKA <b>Nalito</b>.</h2>
 
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Actively learning new technologies and stacks that would make me a better data scientist.
 - 🎓 &nbsp; Studying Computer Engineering at Bells University of Technology.
-- 💼 &nbsp; Working as a Data Science Intern at Hamoye.
-- 🌱 &nbsp; Learning more about Computer Vision, Speech Recognition and Data Engineering.
+- 💼 &nbsp; CUrrently working as a freelance data scientist
+- 💼 &nbsp; Worked as a Data Science Intern at Hamoye.
+- 🌱 &nbsp; Learning more about Business Intelligence, Speech Recognition and Data Engineering.
 - ✍️ &nbsp; I'm a Data Scientist and Machine Learning Engineer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -39,6 +44,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nalito&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalito&theme=buefy&layout=compact" />
 </a>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Nalito&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nalito&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nalito&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <br/>
 

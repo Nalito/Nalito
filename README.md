@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **software projects with real impact**
 
-- 👨‍💻 All of my projects are available at [ifeoluwa-oduwaiye.vercel.app](ifeoluwa-oduwaiye.vercel.app)
+- 👨‍💻 All of my projects are available at [ifeoluwa-oduwaiye.vercel.app](https://ifeoluwa-oduwaiye.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@ifeoluwaoduwaiye](https://medium.com/@ifeoluwaoduwaiye)
 

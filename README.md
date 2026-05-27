@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Ife 👋</h1>
 <h3 align="center">An AI Software Developer from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nalito" alt="nalito" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nalito" alt="nalito" /></a> </p> -->
+
+[![trophy](https://trophygh.kolioaris.xyz/?username=Nalito)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **TapIn**
 
